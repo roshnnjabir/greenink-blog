@@ -1,3 +1,11 @@
+---
+title: "Engineering Trust: SRE Principles for Sustainable Partnerships"
+date: "2024-03-13"
+author: "Roshan Jabir"
+excerpt: "Explore how Site Reliability Engineering principles can inform organizational trust, accountability, and operational transparency in modern engineering partnerships."
+tags: ["SRE", "DevOps", "Engineering Culture", "Reliability", "Trust"]
+---
+
 # Engineering Trust: SRE Principles for Sustainable Partnerships
 
 ## Introduction
